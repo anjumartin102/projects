@@ -1,2 +1,2 @@
 # projects
-Author - Anju MArti n
+Author - Anju Martin
